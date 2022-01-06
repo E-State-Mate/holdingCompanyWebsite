@@ -3033,6 +3033,8 @@ textarea.form-control-lg {
 }
 
 .btn-primary {
+  align-items: center;
+  justify-content: center;
   color: #fff;
   background-color: #64a19d;
   border-color: #64a19d;
@@ -3333,6 +3335,7 @@ textarea.form-control-lg {
 }
 
 .btn-outline-primary {
+  align-items: center;
   color: #64a19d;
   border-color: #64a19d;
 }
