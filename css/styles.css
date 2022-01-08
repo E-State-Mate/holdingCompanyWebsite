@@ -11508,12 +11508,12 @@ body {
     padding-top: 0;
     padding-bottom: 0;
     border-bottom: none;
-    background-color: transparent;
+    background-color: grey;
     transition: background-color 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
     padding: 0.5rem 0;
-    color: rgba(255, 255, 255, 0.5);
+    color: white;
   }
   #mainNav .nav-link {
     transition: none;
@@ -11566,8 +11566,8 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: url("../../img/430 Tech.jpg");
-  /* linear-gradient (to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 100%, #000 100%), url("img/churchstreetplaza.jpg"); */
+  background: url("../../img/background4.jpg");
+  /* linear-gradient (to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 100%, #000 100%), url("../../img/background3.jpg"); */
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11614,7 +11614,7 @@ body {
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 .about-section p {
-  margin-bottom: 5rem;
+  margin-bottom: rem;
 }
 
 .projects-section {
