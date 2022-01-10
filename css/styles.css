@@ -11697,3 +11697,8 @@ body {
 .slider-img {
   height: 500px;
 }
+.contacts-container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
